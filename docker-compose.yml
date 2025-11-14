@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  mcp-server:
+    build:
+      context: "."
+      dockerfile: Dockerfile
+    container_name: mcp-jrserver
+    ports:
+      - "8080:8080"
+    environment:
+      SERVER_ADDRESS: 0.0.0.0
+      SERVER_PORT: 8080
+      JIRA_BASE_URL: http://host.docker.internal:2990
