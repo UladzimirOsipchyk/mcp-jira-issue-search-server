@@ -21,3 +21,6 @@ All of them have different summaries
 
 Words I'm saying: "Покажи все баги, у которых есть проблемы с платформой" ("Show all bugs that have problems with the platform")
 As results we see only one issue AAA-3 in the response
+
+[Jira-MCP-Server-Part1.mov](src%2Fmain%2Fresources%2Fstatic%2Fdemo%2FJira-MCP-Server-Part1.mov)
+[Jira-MCP-Server-Part2.mov](src%2Fmain%2Fresources%2Fstatic%2Fdemo%2FJira-MCP-Server-Part2.mov)
